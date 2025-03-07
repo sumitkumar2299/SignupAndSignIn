@@ -1,2 +1,3 @@
-I have created Sing up and sign in features. 
+Created Singup and Signin features.
+
  
